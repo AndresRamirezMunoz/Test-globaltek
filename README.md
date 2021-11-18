@@ -3,8 +3,9 @@ Test-globaltek
 Quick way:
    1. Copy the code.
    2. Open the following link: https://paiza.io/es/projects/new
-   3. Paste the code
-   4. Run the code
+   3. Select ruby language
+   4. Paste the code
+   5. Run the code
 
 
 Custom way:
